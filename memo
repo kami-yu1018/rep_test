@@ -1,0 +1,7 @@
+ブランチと命名
+ブランチ：安全に実験できる場所
+メインにプログラムを書くのではなく、ブランチを作ってプログラムし、後からメインに追加する
+Feature			feature/<name>
+Bugfix			fix/<context>
+Docs			docs/<context>
+Refactor		refactor/<context>
